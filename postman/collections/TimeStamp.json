@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "70155470-cc34-4346-b53f-baafb0908494",
+		"name": "TimeStamp",
+		"description": "This Collection is used to create a text file with the current timestamp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "29592076-70155470-cc34-4346-b53f-baafb0908494"
+	},
+	"item": [
+		{
+			"name": "Create",
+			"id": "fbb4b285-a883-4748-a9a2-d078ea47f595",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "https://nodejstimestamptask.onrender.com/create"
+			},
+			"response": []
+		}
+	]
+}
